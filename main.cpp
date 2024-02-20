@@ -113,13 +113,30 @@ public:
         return bestThr;
     }
 
-    void fitGauss(){}
+    double fitGauss(int leftIndex, int rightIndex, int* histAry, int* gaussAry, int maxHeight, int** graph, std::ofstream& debugFile){
+        debugFile << "“Entering fitGauss method" << std::endl;
+        double mean, var, gVal;
+        double sum = 0.0;
+        mean = computeMean(leftIndex, rightIndex, mean, maxHeight, histAry, debugFile);
+        var = computeVar(leftIndex, rightIndex, maxHeight, histAry, debugFile);
+        int index = leftIndex;
+        while(index <= rightIndex){
+            gVal = modifiedGauss(index, mean, var, maxHeight);
+            sum += abs(gVal - histAry[index]);
+            gaussAry[index] = gVal;
+            index++;
+        }
+
+        debugFile << "leaving fitGauss method, sum is: " << sum << std::endl;
+
+        return sum;
+    }
 
     double computeMean(){}
 
     double computeVar(){}
 
-    void modifiedGaus(){}
+    void modifiedGauss(){}
 
     void printGraph(std::ofstream& deBugFile){
         if (graph == nullptr) {
