@@ -1,0 +1,1012 @@
+In main (), below is the Graph after plotting the histogram onto Graph
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  +++++++++++++++++++++++++++++++++++++++++++++++++++ +
+  ++++++++++++++++++++++++++++++++++++++++++++++++  + +
+  ++++++++++++++++++++++++++++++++++++++++++++++++  +  
+  ++++++++++++++++++++++++++++++++++++++++++++++++  +  
+  ++++++++++++++++++++++++++++++++++++++++++++++++     
+  +++++++++++++++++++++++++ ++++++++++++++++++++++     
+  +++++++++++++++++++++++++ + ++++++++++++++++++++     
+  +++++++++++++++++++++++++ + ++++++++++++++++++++     
+  +++++++++++++++++++  ++++ +  +++++++++++++++++++     
+  +++++++++++++++ +++  ++++ +  +++++++++++++++++++     
+  +++++++++++++++ +++  ++++ +   +++++++++++++++++      
+  +++++++++++++++ + +  ++++ +   +++++++++++++++++      
+  +++++++++++++++ + +  ++++ +   +++++++++++++++++      
+  ++++++++++++++    +  ++++     + +++++++++++++++      
+  ++++++++++++++    +   ++      + + +++++++++++++      
+  +++++++++++ ++    +    +        + + +++++++++++      
+  +++++++++++ ++         +          + +++++++++++      
+  +++++++++++ ++         +          + +++++++++++      
+  +++++++++++ ++         +            +++++++++++      
+  ++++++++++  ++         +            +++++++++++      
+  ++++++++++  ++         +            +++++++++++      
+  ++++++++++  +                       +++++++++++      
+  ++++++++++  +                       +++++++++++      
+  ++++++++++  +                       +++++++++++      
+  ++++++++++  +                        ++++++++++      
+  ++++++++++  +                        ++++++++++      
+  ++++++++++  +                        ++++++++++      
+  +++++++++   +                        ++++++++++      
+  +++++++++   +                        ++++++++++      
+  +++++++++                            ++++++++ +      
+  +++++++++                            ++++++++ +      
+  +++++++++                            ++++++++ +      
+  +++++++++                             +++++++ +      
+  +++++++++                             +++ +++ +      
+  +++++++++                             +++ +++ +      
+  +++++++++                             +++ +++ +      
+  +++++++++                             +++ +++ +      
+   ++++++++                             +++ + + +      
+   ++++++++                              ++ +          
+   ++++++++                              ++ +          
+   ++++++++                              ++ +          
+   ++++++++                              ++ +          
+   ++++++++                              ++ +          
+   ++++++++                              ++ +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               + +          
+   ++++++++                               +            
+   ++++++++                               +            
+   ++++++++                               +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                +            
+   +++++++                                             
+   +++++++                                             
+   +++++++                                             
+   ++++++                                              
+   ++++++                                              
+   ++++++                                              
+   ++++++                                              
+   +++++                                               
+   +++++                                               
+   +++++                                               
+   +++++                                               
+   +++++                                               
+   +++ +                                               
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+   +++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    ++                                                 
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+    +                                                  
+                                                       
+Entering biGaussian method
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 3.57319
+Entering computeVar() method
+“Leaving computeVar method returning result 0.699538
+leaving fitGauss method, sum is: nan
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 256and result is 22.7247
+Entering computeVar() method
+“Leaving computeVar method returning result 263.558
+leaving fitGauss method, sum is: 1467
+In biGaussian (): dividePt = 5, sum1= nan, sum2= 1467, total= nan, minSumDiff = 99999and bestThr= 5
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 3.9768
+Entering computeVar() method
+“Leaving computeVar method returning result 1.63315
+leaving fitGauss method, sum is: 979
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 75and result is 26.481
+Entering computeVar() method
+“Leaving computeVar method returning result 238.319
+leaving fitGauss method, sum is: 1211
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 6, sum1= 979, sum2= 1211, total= 2190, minSumDiff = 2190and bestThr= 6
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 4.12972
+Entering computeVar() method
+“Leaving computeVar method returning result 0.930541
+leaving fitGauss method, sum is: nan
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 75and result is 27.8175
+Entering computeVar() method
+“Leaving computeVar method returning result 225.133
+leaving fitGauss method, sum is: 1137
+In biGaussian (): dividePt = 7, sum1= nan, sum2= 1137, total= nan, minSumDiff = 2190and bestThr= 6
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 4.33397
+Entering computeVar() method
+“Leaving computeVar method returning result 1.50474
+leaving fitGauss method, sum is: 1123
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 69and result is 29.2918
+Entering computeVar() method
+“Leaving computeVar method returning result 207.582
+leaving fitGauss method, sum is: 1062
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 8, sum1= 1123, sum2= 1062, total= 2185, minSumDiff = 2185and bestThr= 8
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 4.55922
+Entering computeVar() method
+“Leaving computeVar method returning result 2.39537
+leaving fitGauss method, sum is: 1188
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 65and result is 30.7758
+Entering computeVar() method
+“Leaving computeVar method returning result 188.762
+leaving fitGauss method, sum is: 993
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 9, sum1= 1188, sum2= 993, total= 2181, minSumDiff = 2181and bestThr= 9
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 4.80219
+Entering computeVar() method
+“Leaving computeVar method returning result 3.63215
+leaving fitGauss method, sum is: 1243
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 32.3059
+Entering computeVar() method
+“Leaving computeVar method returning result 165.813
+leaving fitGauss method, sum is: 928
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 10, sum1= 1243, sum2= 928, total= 2171, minSumDiff = 2171and bestThr= 10
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.03218
+Entering computeVar() method
+“Leaving computeVar method returning result 4
+leaving fitGauss method, sum is: 1271
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 33.7161
+Entering computeVar() method
+“Leaving computeVar method returning result 143.266
+leaving fitGauss method, sum is: 873
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 11, sum1= 1271, sum2= 873, total= 2144, minSumDiff = 2144and bestThr= 11
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.16365
+Entering computeVar() method
+“Leaving computeVar method returning result 4.70496
+leaving fitGauss method, sum is: 1291
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 34.4715
+Entering computeVar() method
+“Leaving computeVar method returning result 129.992
+leaving fitGauss method, sum is: 845
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 12, sum1= 1291, sum2= 845, total= 2136, minSumDiff = 2136and bestThr= 12
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.26956
+Entering computeVar() method
+“Leaving computeVar method returning result 5.39117
+leaving fitGauss method, sum is: 1307
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 35.0182
+Entering computeVar() method
+“Leaving computeVar method returning result 120.342
+leaving fitGauss method, sum is: 825
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 13, sum1= 1307, sum2= 825, total= 2132, minSumDiff = 2132and bestThr= 13
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.36419
+Entering computeVar() method
+“Leaving computeVar method returning result 6.10865
+leaving fitGauss method, sum is: 1337
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 35.4553
+Entering computeVar() method
+“Leaving computeVar method returning result 113.123
+leaving fitGauss method, sum is: 809
+In biGaussian (): dividePt = 14, sum1= 1337, sum2= 809, total= 2146, minSumDiff = 2132and bestThr= 13
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.55797
+Entering computeVar() method
+“Leaving computeVar method returning result 7.78908
+leaving fitGauss method, sum is: 1359
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 36.2848
+Entering computeVar() method
+“Leaving computeVar method returning result 98.8776
+leaving fitGauss method, sum is: 779
+In biGaussian (): dividePt = 15, sum1= 1359, sum2= 779, total= 2138, minSumDiff = 2132and bestThr= 13
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.71082
+Entering computeVar() method
+“Leaving computeVar method returning result 9.28182
+leaving fitGauss method, sum is: 1373
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 36.9058
+Entering computeVar() method
+“Leaving computeVar method returning result 88.8952
+leaving fitGauss method, sum is: 757
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 16, sum1= 1373, sum2= 757, total= 2130, minSumDiff = 2130and bestThr= 16
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.81573
+Entering computeVar() method
+“Leaving computeVar method returning result 10.421
+leaving fitGauss method, sum is: 1383
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 37.3014
+Entering computeVar() method
+“Leaving computeVar method returning result 81.4068
+leaving fitGauss method, sum is: 743
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 17, sum1= 1383, sum2= 743, total= 2126, minSumDiff = 2126and bestThr= 17
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 5.8966
+Entering computeVar() method
+“Leaving computeVar method returning result 11.3868
+leaving fitGauss method, sum is: 1397
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 37.5795
+Entering computeVar() method
+“Leaving computeVar method returning result 77.0425
+leaving fitGauss method, sum is: 733
+In biGaussian (): dividePt = 18, sum1= 1397, sum2= 733, total= 2130, minSumDiff = 2126and bestThr= 17
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.0179
+Entering computeVar() method
+“Leaving computeVar method returning result 11.9306
+leaving fitGauss method, sum is: 1409
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 37.9623
+Entering computeVar() method
+“Leaving computeVar method returning result 71.4902
+leaving fitGauss method, sum is: 719
+In biGaussian (): dividePt = 19, sum1= 1409, sum2= 719, total= 2128, minSumDiff = 2126and bestThr= 17
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.12846
+Entering computeVar() method
+“Leaving computeVar method returning result 13.2683
+leaving fitGauss method, sum is: 1426
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 38.2855
+Entering computeVar() method
+“Leaving computeVar method returning result 65.6151
+leaving fitGauss method, sum is: 707
+In biGaussian (): dividePt = 20, sum1= 1426, sum2= 707, total= 2133, minSumDiff = 2126and bestThr= 17
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.29383
+Entering computeVar() method
+“Leaving computeVar method returning result 15.4467
+leaving fitGauss method, sum is: 1435
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 38.738
+Entering computeVar() method
+“Leaving computeVar method returning result 59.2213
+leaving fitGauss method, sum is: 690
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 21, sum1= 1435, sum2= 690, total= 2125, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.38606
+Entering computeVar() method
+“Leaving computeVar method returning result 16.761
+leaving fitGauss method, sum is: 1444
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 38.9735
+Entering computeVar() method
+“Leaving computeVar method returning result 56.1711
+leaving fitGauss method, sum is: 681
+In biGaussian (): dividePt = 22, sum1= 1444, sum2= 681, total= 2125, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.48338
+Entering computeVar() method
+“Leaving computeVar method returning result 18.2521
+leaving fitGauss method, sum is: 1459
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 39.2018
+Entering computeVar() method
+“Leaving computeVar method returning result 52.0792
+leaving fitGauss method, sum is: 672
+In biGaussian (): dividePt = 23, sum1= 1459, sum2= 672, total= 2131, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.65319
+Entering computeVar() method
+“Leaving computeVar method returning result 21.0356
+leaving fitGauss method, sum is: 1475
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 39.5734
+Entering computeVar() method
+“Leaving computeVar method returning result 47.4021
+leaving fitGauss method, sum is: 657
+In biGaussian (): dividePt = 24, sum1= 1475, sum2= 657, total= 2132, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 6.84136
+Entering computeVar() method
+“Leaving computeVar method returning result 24.322
+leaving fitGauss method, sum is: 1497
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 39.9639
+Entering computeVar() method
+“Leaving computeVar method returning result 42.9483
+leaving fitGauss method, sum is: 641
+In biGaussian (): dividePt = 25, sum1= 1497, sum2= 641, total= 2138, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.10822
+Entering computeVar() method
+“Leaving computeVar method returning result 28.0534
+leaving fitGauss method, sum is: 1512
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 40.4984
+Entering computeVar() method
+“Leaving computeVar method returning result 35.4854
+leaving fitGauss method, sum is: 619
+In biGaussian (): dividePt = 26, sum1= 1512, sum2= 619, total= 2131, minSumDiff = 2125and bestThr= 21
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.29563
+Entering computeVar() method
+“Leaving computeVar method returning result 31.3565
+leaving fitGauss method, sum is: 1518
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 40.8602
+Entering computeVar() method
+“Leaving computeVar method returning result 31.4792
+leaving fitGauss method, sum is: 604
+right before copy array
+right after copy array 
+In biGaussian (): dividePt = 27, sum1= 1518, sum2= 604, total= 2122, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.37352
+Entering computeVar() method
+“Leaving computeVar method returning result 32.8136
+leaving fitGauss method, sum is: 1532
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 41
+Entering computeVar() method
+“Leaving computeVar method returning result 29.0924
+leaving fitGauss method, sum is: 598
+In biGaussian (): dividePt = 28, sum1= 1532, sum2= 598, total= 2130, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.56201
+Entering computeVar() method
+“Leaving computeVar method returning result 36.5437
+leaving fitGauss method, sum is: 1539
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 41.3133
+Entering computeVar() method
+“Leaving computeVar method returning result 25.7212
+leaving fitGauss method, sum is: 584
+In biGaussian (): dividePt = 29, sum1= 1539, sum2= 584, total= 2123, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.65952
+Entering computeVar() method
+“Leaving computeVar method returning result 38.5789
+leaving fitGauss method, sum is: 1548
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 41.4634
+Entering computeVar() method
+“Leaving computeVar method returning result 24.2787
+leaving fitGauss method, sum is: 577
+In biGaussian (): dividePt = 30, sum1= 1548, sum2= 577, total= 2125, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.78941
+Entering computeVar() method
+“Leaving computeVar method returning result 41.4302
+leaving fitGauss method, sum is: 1559
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 41.646
+Entering computeVar() method
+“Leaving computeVar method returning result 22.7381
+leaving fitGauss method, sum is: 568
+In biGaussian (): dividePt = 31, sum1= 1559, sum2= 568, total= 2127, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 7.95318
+Entering computeVar() method
+“Leaving computeVar method returning result 45.2021
+leaving fitGauss method, sum is: 1575
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 41.8574
+Entering computeVar() method
+“Leaving computeVar method returning result 21.204
+leaving fitGauss method, sum is: 557
+In biGaussian (): dividePt = 32, sum1= 1575, sum2= 557, total= 2132, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 8.19746
+Entering computeVar() method
+“Leaving computeVar method returning result 49.6971
+leaving fitGauss method, sum is: 1589
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 42.1506
+Entering computeVar() method
+“Leaving computeVar method returning result 18.1245
+leaving fitGauss method, sum is: 541
+In biGaussian (): dividePt = 33, sum1= 1589, sum2= 541, total= 2130, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 8.41598
+Entering computeVar() method
+“Leaving computeVar method returning result 54.7659
+leaving fitGauss method, sum is: 1606
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 42.395
+Entering computeVar() method
+“Leaving computeVar method returning result 16.4447
+leaving fitGauss method, sum is: 527
+In biGaussian (): dividePt = 34, sum1= 1606, sum2= 527, total= 2133, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 8.6868
+Entering computeVar() method
+“Leaving computeVar method returning result 61.3418
+leaving fitGauss method, sum is: 1621
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 42.6765
+Entering computeVar() method
+“Leaving computeVar method returning result 14.8501
+leaving fitGauss method, sum is: 510
+In biGaussian (): dividePt = 35, sum1= 1621, sum2= 510, total= 2131, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 8.93029
+Entering computeVar() method
+“Leaving computeVar method returning result 67.52
+leaving fitGauss method, sum is: 1640
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 42.9106
+Entering computeVar() method
+“Leaving computeVar method returning result 13.8089
+leaving fitGauss method, sum is: 495
+In biGaussian (): dividePt = 36, sum1= 1640, sum2= 495, total= 2135, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 9.2439
+Entering computeVar() method
+“Leaving computeVar method returning result 74.3329
+leaving fitGauss method, sum is: 1656
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 43.1882
+Entering computeVar() method
+“Leaving computeVar method returning result 11.5412
+leaving fitGauss method, sum is: 476
+In biGaussian (): dividePt = 37, sum1= 1656, sum2= 476, total= 2132, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 9.51208
+Entering computeVar() method
+“Leaving computeVar method returning result 81.1896
+leaving fitGauss method, sum is: 1681
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 43.4048
+Entering computeVar() method
+“Leaving computeVar method returning result 10.6849
+leaving fitGauss method, sum is: 460
+In biGaussian (): dividePt = 38, sum1= 1681, sum2= 460, total= 2141, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 9.93575
+Entering computeVar() method
+“Leaving computeVar method returning result 92.4896
+leaving fitGauss method, sum is: 1714
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 43.7176
+Entering computeVar() method
+“Leaving computeVar method returning result 9.85648
+leaving fitGauss method, sum is: 435
+In biGaussian (): dividePt = 39, sum1= 1714, sum2= 435, total= 2149, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 10.4953
+Entering computeVar() method
+“Leaving computeVar method returning result 106.046
+leaving fitGauss method, sum is: 1753
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 44.1078
+Entering computeVar() method
+“Leaving computeVar method returning result 8.13283
+leaving fitGauss method, sum is: 402
+In biGaussian (): dividePt = 40, sum1= 1753, sum2= 402, total= 2155, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 11.1517
+Entering computeVar() method
+“Leaving computeVar method returning result 122.406
+leaving fitGauss method, sum is: 1798
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 44.5528
+Entering computeVar() method
+“Leaving computeVar method returning result 7.28056
+leaving fitGauss method, sum is: 363
+In biGaussian (): dividePt = 41, sum1= 1798, sum2= 363, total= 2161, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 11.8988
+Entering computeVar() method
+“Leaving computeVar method returning result 141.868
+leaving fitGauss method, sum is: 1860
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 62and result is 45.0603
+Entering computeVar() method
+“Leaving computeVar method returning result 5.91429
+leaving fitGauss method, sum is: 318
+In biGaussian (): dividePt = 42, sum1= 1860, sum2= 318, total= 2178, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 12.9022
+Entering computeVar() method
+“Leaving computeVar method returning result 166.368
+leaving fitGauss method, sum is: 1894
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 52and result is 45.8103
+Entering computeVar() method
+“Leaving computeVar method returning result 5.1581
+leaving fitGauss method, sum is: 256
+In biGaussian (): dividePt = 43, sum1= 1894, sum2= 256, total= 2150, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 13.4424
+Entering computeVar() method
+“Leaving computeVar method returning result 178.748
+leaving fitGauss method, sum is: 1946
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 52and result is 46.2466
+Entering computeVar() method
+“Leaving computeVar method returning result 3.84475
+leaving fitGauss method, sum is: 222
+In biGaussian (): dividePt = 44, sum1= 1946, sum2= 222, total= 2168, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 14.259
+Entering computeVar() method
+“Leaving computeVar method returning result 198.133
+leaving fitGauss method, sum is: 1984
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 39and result is 46.9461
+Entering computeVar() method
+“Leaving computeVar method returning result 3.79641
+leaving fitGauss method, sum is: 170
+In biGaussian (): dividePt = 45, sum1= 1984, sum2= 170, total= 2154, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 14.8478
+Entering computeVar() method
+“Leaving computeVar method returning result 212.744
+leaving fitGauss method, sum is: 2023
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 39and result is 47.5194
+Entering computeVar() method
+“Leaving computeVar method returning result 2.5814
+leaving fitGauss method, sum is: 132
+In biGaussian (): dividePt = 46, sum1= 2023, sum2= 132, total= 2155, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 15.4483
+Entering computeVar() method
+“Leaving computeVar method returning result 226.487
+leaving fitGauss method, sum is: 2053
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 39and result is 48.1778
+Entering computeVar() method
+“Leaving computeVar method returning result 1.91111
+leaving fitGauss method, sum is: 93
+In biGaussian (): dividePt = 47, sum1= 2053, sum2= 93, total= 2146, minSumDiff = 2122and bestThr= 27
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 412and result is 15.9094
+Entering computeVar() method
+“Leaving computeVar method returning result 238.141
+leaving fitGauss method, sum is: 2092
+“Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is 39and result is 48.7667
+Entering computeVar() method
+“Leaving computeVar method returning result 2.36667
+leaving fitGauss method, sum is: 63
+In biGaussian (): dividePt = 48, sum1= 2092, sum2= 63, total= 2155, minSumDiff = 2122and bestThr= 27
+leaving biGaussian method, minSumDiff = 2122bestThr is 27
+“Entering plotGaussCurves () method
+leaving plotGaussCurves()

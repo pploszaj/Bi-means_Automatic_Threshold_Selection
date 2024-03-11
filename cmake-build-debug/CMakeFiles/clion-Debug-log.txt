@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection -B /Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug

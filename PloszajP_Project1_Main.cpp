@@ -27,7 +27,7 @@ public:
         while (inFile >> histVal >> count) {
             if (histVal < 0 || histVal > maxVal) {
                 std::cerr << "Histogram value " << histVal << " is out of range." << std::endl;
-                break;
+                continue;
             }
             ary[histVal] = count;
             if (count > maxHistValue) {

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bi_means_Automatic_Threshold_Selection",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bi_means_Automatic_Threshold_Selection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bi_means_Automatic_Threshold_Selection-Debug-35fb0cc8397d02064a44.json",
+					"name" : "Bi_means_Automatic_Threshold_Selection",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug",
+		"source" : "/Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

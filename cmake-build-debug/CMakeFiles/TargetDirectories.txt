@@ -1,0 +1,3 @@
+/Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug/CMakeFiles/Bi_means_Automatic_Threshold_Selection.dir
+/Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrick/Desktop/dev/Bi-means_Automatic_Threshold_Selection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
